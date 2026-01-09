@@ -19,7 +19,7 @@ $cfg['Servers'][$i]['password'] = '';
 **Τελικό:**
 $cfg['Servers'][$i]['password'] = 'admin123';
 
-## Εκκίνηση Apache Server & Βάσης δεδομένων
+### 3. Εκκίνηση Apache Server & Βάσης δεδομένων
 
 1. Από το **XAMPP Control Panel**, εκκινήστε (Start) τους servers **Apache** και **MySQL**.
 2. Ανοίξτε το Terminal (γραμμή εντολών) και εκτελέστε τις παρακάτω εντολές:
@@ -30,7 +30,7 @@ ALTER USER 'root'@'localhost' IDENTIFIED BY 'admin123';
 
 FLUSH PRIVILEGES;
 
-## Εγκατάσταση Εφαρμογής
+### 4. Εγκατάσταση Εφαρμογής
 
 1. Εντοπίστε τον φάκελο **htdocs** (default: `C:\xampp\htdocs`).
 2. Επικολλήστε εκεί τον φάκελο του έργου **erasmus portal**.
