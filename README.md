@@ -37,7 +37,7 @@ FLUSH PRIVILEGES;
 
 ### Πρόσβαση
 Η ιστοσελίδα είναι διαθέσιμη στο:
-👉 [http://localhost/erasmus portal/index.php](http://localhost/erasmus%20portal/index.php)
+ [http://localhost/erasmus portal/index.php](http://localhost/erasmus%20portal/index.php)
 
 ---
 > [!IMPORTANT]
