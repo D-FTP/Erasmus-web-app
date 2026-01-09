@@ -39,6 +39,5 @@ FLUSH PRIVILEGES;
 Η ιστοσελίδα είναι διαθέσιμη στο:
  [http://localhost/erasmus portal/index.php](http://localhost/erasmus%20portal/index.php)
 
----
-> [!IMPORTANT]
+> 
 > Βεβαιωθείτε ότι ο φάκελος στο htdocs ονομάζεται ακριβώς **erasmus portal** για να λειτουργούν σωστά τα links.
